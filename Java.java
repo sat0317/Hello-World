@@ -1,8 +1,7 @@
-class HelloWorld
-{
-    static void Main()
-    {
-        System.Console.WriteLine("Hello, World!");
-    } 
-}
+package helloworld;
 
+class HelloWorld {
+	public static void main(String[] args){
+		System.out.println("Hello, World!");
+	}
+}
